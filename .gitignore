@@ -1,0 +1,12 @@
+﻿Library
+Logs
+Packages
+Temp
+obj
+.vs
+.vscode
+.idea
+*.csproj
+*.sln
+*.user
+.vsconfig
