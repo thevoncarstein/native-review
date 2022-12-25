@@ -12,5 +12,9 @@ A quick implementation of Native In-App Review for Unity
 - https://developer.android.com/guide/playcore/in-app-review
 - https://developer.apple.com/app-store/review/
 
+# Troubleshooting
+1. AndroidJavaException: java.lang.ClassNotFoundException: com.google.android.play.core.review
+- Disable proguard function in PlayerSettings > Minify > Release/Debug
+
 ------
 Happy Developing!
